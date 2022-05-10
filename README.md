@@ -2,6 +2,7 @@
 
 * Html.
 * Css.
+* tailwind css.
 * Mobile First.
 * JavaScript: Validacion, FetchApi.
 * Web service.
