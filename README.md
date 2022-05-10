@@ -1,5 +1,6 @@
 # PixabayImagenes-FetchAPI
 
+Buscador de imágenes utilizando la API de Pixabay:
 * Html.
 * Css.
 * tailwind css.
